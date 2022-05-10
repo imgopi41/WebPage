@@ -1,4 +1,22 @@
 # WebPage
+This is simple Webpage project implemented by using CSS & HTML.
+
+**I. Description**
+
+This is simple webpage project, T
+
+**II. Technology Stack**
+
+Language: Python(3.6)
+
+IDE used: Pycharm
+
+**III. Workflow**
+
+1. 
+
+
+
 This Webpage Project is done by using HTML and CSS
 In this project i have created 2 files one is .htm file and another is .css file
 
