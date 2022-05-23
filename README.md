@@ -20,3 +20,11 @@ IDE used: VS Code(1.67.0)
 4. Css file is used to style Html file, complete modifications & text alignments are done by using Css.
 5. Cursor floats on each text in the following Webpage to make user easy choose.
 
+**IV. Demo**
+
+![Webpage_output_github](https://user-images.githubusercontent.com/99798157/169777940-7ef39280-8796-4115-9348-c9ed796e095f.JPG)
+
+
+**V. Applications & Future Scope**
+
+This project can be further implemented with interactive UI.
