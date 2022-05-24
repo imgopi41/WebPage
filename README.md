@@ -18,7 +18,7 @@ IDE used: VS Code(1.67.0)
 2. Html file contains few classes & commands for this project.
 3. Text for this webpage is implemented through Html.
 4. Css file is used to style Html file, complete modifications & text alignments are done by using Css.
-5. Cursor floats on each text in the following Webpage to make user easy choose.
+5. Cursor floats on each text in the following Webpage to make user easy.
 
 **IV. Demo**
 
